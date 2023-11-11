@@ -17,11 +17,11 @@
 ## Papers:
 
 ### Secure Computation
-- [x] ObliCheck: Efficient Verification of Oblivious Algorithms with Unobservable State https://www.usenix.org/conference/usenixsecurity21/presentation/son
-- [x] MAGE: Nearly Zero-Cost Virtual Memory for Secure Computation https://www.usenix.org/system/files/osdi21-kumar.pdf
+- [x] [ObliCheck: Efficient Verification of Oblivious Algorithms with Unobservable State](/papers/ObliCheck.md)
+- [x] [MAGE: Nearly Zero-Cost Virtual Memory for Secure Computation](/papers/MAGE.md)
 
 ### Streaming System
-- [x] Noria: dynamic, partially-stateful data-flow for high-performance web applications https://pdos.csail.mit.edu/papers/noria:osdi18.pdf
+- [x] [Noria: dynamic, partially-stateful data-flow for high-performance web applications](/papers/Noria.md) 
 
 ### Profiling Distributed System
 - [ ] COZ: Finding Code that Counts with Causal Profiling
