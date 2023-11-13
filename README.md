@@ -26,5 +26,5 @@
 - [x] [Noria: dynamic, partially-stateful data-flow for high-performance web applications](/papers/Noria.md) 
 
 ### Profiling Distributed System
-- [ ] COZ: Finding Code that Counts with Causal Profiling
+- [x] [COZ: Finding Code that Counts with Causal Profiling](/papers/COZ.md)
 - [ ] SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows
