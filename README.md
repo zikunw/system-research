@@ -27,4 +27,4 @@
 
 ### Profiling Distributed System
 - [x] [COZ: Finding Code that Counts with Causal Profiling](/papers/COZ.md)
-- [ ] SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows
+- [x] [SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows](/papers/SnailTrail.md)
