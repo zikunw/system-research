@@ -28,3 +28,4 @@
 ### Profiling Distributed System
 - [x] [COZ: Finding Code that Counts with Causal Profiling](/papers/COZ.md)
 - [x] [SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows](/papers/SnailTrail.md)
+- [ ] Non-intrusive Performance Profiling for Entire Software Stacks based on the Flow Reconstruction Principle
