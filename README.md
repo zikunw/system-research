@@ -23,7 +23,8 @@
 - [x] [MAGE: Nearly Zero-Cost Virtual Memory for Secure Computation](/papers/MAGE.md)
 
 ### Streaming System
-- [x] [Noria: dynamic, partially-stateful data-flow for high-performance web applications](/papers/Noria.md) 
+- [x] [Noria: dynamic, partially-stateful data-flow for high-performance web applications](/papers/Noria.md)
+- [x] [Data Ingestion for the Connected World](/papers/data-ingestion-for-the-connected-world.md)
 
 ### Profiling Distributed System
 - [x] [COZ: Finding Code that Counts with Causal Profiling](/papers/COZ.md)
