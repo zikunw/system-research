@@ -10,6 +10,7 @@
 - [x] [Noria: dynamic, partially-stateful data-flow for high-performance web applications](/papers/Noria.md)
 - [x] [Data Ingestion for the Connected World](/papers/data-ingestion-for-the-connected-world.md)
 - [x] [Realtime Data Processing at Facebook](/papers/Realtime-Data-Processing-at-Facebook.md)
+- [x] [Watermarks in Stream Processing System](/papers/watermarks-in-stream-processing-system.md)
 
 ### Profiling Distributed System
 - [x] [COZ: Finding Code that Counts with Causal Profiling](/papers/COZ.md)
