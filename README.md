@@ -11,6 +11,7 @@
 - [x] [Data Ingestion for the Connected World](/papers/data-ingestion-for-the-connected-world.md)
 - [x] [Realtime Data Processing at Facebook](/papers/Realtime-Data-Processing-at-Facebook.md)
 - [x] [Watermarks in Stream Processing System](/papers/watermarks-in-stream-processing-system.md)
+- [x] [Efficient Window Aggregation with General Stream Slicing](/papers/efficient-window-aggregation-with-general-stream-slicing.md)
 
 ### Profiling Distributed System
 - [x] [COZ: Finding Code that Counts with Causal Profiling](/papers/COZ.md)
