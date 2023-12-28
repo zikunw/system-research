@@ -1,4 +1,4 @@
-# system-group-research
+# system-research
 
 ## Papers:
 
